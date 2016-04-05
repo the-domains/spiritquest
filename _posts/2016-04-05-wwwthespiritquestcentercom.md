@@ -1,14 +1,14 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: www.thespiritquestcenter.com
-datePublished: '2016-04-05T15:26:08.137Z'
-dateModified: '2016-04-05T14:47:49.509Z'
-title: ''
+datePublished: '2016-04-05T15:30:16.868Z'
+dateModified: '2016-04-05T15:30:15.453Z'
+title: The Spirit Quest Center
 author: []
 sourcePath: _posts/2016-04-05-wwwthespiritquestcentercom.md
 published: true
@@ -23,4 +23,3 @@ _type: Article
 
 ---
 www.thespiritquestcenter.com
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/825c8c82-6933-46ef-a129-dd918f57649e.png)
