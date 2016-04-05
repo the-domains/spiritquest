@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: www.thespiritquestcenter.com
-datePublished: '2016-04-05T14:47:42.430Z'
-dateModified: '2016-04-05T14:47:15.906Z'
+datePublished: '2016-04-05T15:26:08.137Z'
+dateModified: '2016-04-05T14:47:49.509Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-05-wwwthespiritquestcentercom.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-05-wwwthespiritquestcentercom.md
-published: true
 url: wwwthespiritquestcentercom/index.html
 _type: Article
 
