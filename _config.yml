@@ -1,0 +1,28 @@
+name: SpiritQuest
+favicon: null
+layout_spectrum: 0.8715067198500037
+typography_spectrum: 0.32048092875629663
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5004164392594248
+  lightness: 0.5162997308652848
+  saturation: 0.9615228895563632
+  rhythmicContrast: 0.2995630733203143
+purpose: []
